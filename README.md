@@ -8,4 +8,4 @@ Fouillez mes repositories publics et vous trouverez peut-être votre bonheur (ou
 <br />
 Bref, je suis un catho et je me considère comme un geek. Je code parfois pendant mon temps libre. 
 <hr />
-Donc si vous êtes interéssé par un <span style="color: #e1e100;">langage de programmation francophone</span>, un <span style="color: #e1e100;">programme de génération de mots mêlés en C</span>, un <span style="color: #e1e100;">jeu en trois dimensions</span> ou encore un <span style="color: #e1e100;">VTT sous licence libre</span> qui a échoué, faites-vous plaisir !
+Donc si vous êtes interéssé par un <span style="color: #00ff00;">*langage de programmation francophone*</span>, un <span style="color: #00ff00;">*programme de génération de mots mêlés en C*</span>, un <span style="color: #00ff00;">*jeu en trois dimensions*</span> ou encore un <span style="color: #00ff00;">*VTT sous licence libre*</span> qui a échoué, faites-vous plaisir !
